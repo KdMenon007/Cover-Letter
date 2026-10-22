@@ -1,32 +1,26 @@
-Dear Hiring Manager,
+# Kiran Dikshit Menon A
 
-I am writing to apply for the SOC Analyst position. I bring 3.3 years of hands-on
-experience in security operations, with experience in security monitoring, incident
-response, threat hunting, malware analysis, phishing investigations, vulnerability
-assessment, and detection improvement.
+**SOC ANALYST L2 | THREAT DETECTION | THREAT HUNTING | INCIDENT RESPONSE**
 
-In my previous role at Securado, I supported security operations across 12 SIEM customers
-and 34 EDR customers, working with FortiSIEM, ArcSight, SentinelOne, and Cortex
-XSOAR. My work included alert investigation, incident handling, threat hunting, log
-correlation, detection rule tuning, IOC analysis, endpoint investigations, and handling
-incidents from initial triage through remediation.
+Mysuru, Karnataka, India | +91 8310221099 | [kiranmenon16@gmail.com](mailto:kiranmenon16@gmail.com)
 
-Alongside my professional experience, I have developed hands-on skills with Splunk and
-ELK Stack through independent threat-hunting practice and security labs.
+**Portfolio:** [Framer](https://kiranmenon.framer.website/) | [GitHub](https://github.com/KdMenon007) | [Canva](https://kiranmenon.my.canva.site/)
 
-I also have hands-on experience with MITRE ATT&CK, Threat Intelligence, OSINT, Nessus,
-DFIR tools, and ISO 27001. Outside of my professional experience, I continue building my
-technical skills through TryHackMe, Hack The Box, security labs, CTFs, and cybersecurity
-research.
+---
 
-I am interested in this opportunity because it aligns well with my experience in security
-monitoring, threat detection, incident response, and threat hunting. I believe my hands-on
-experience across multiple security environments, combined with my practical approach to
-investigation and continuous learning, would allow me to contribute effectively to your
-security operations team.
+**Dear Hiring Manager,**
 
-Thank you for considering my application. I would welcome the opportunity to discuss how
-my experience and skills can contribute to your organisation.
+I am writing to apply for the SOC Analyst L2 position at your organisation. I have 3.3 years of enterprise SOC experience in security monitoring, threat detection, threat hunting, and incident response. During my time at Securado Pvt Ltd, I supported security operations for 12 SIEM customers and 34 EDR customers across endpoint, network, and email security environments.
 
-Kind regards,
-**Kiran Dikshit Menon A**
+My experience includes alert triage, incident investigation, log correlation, IOC analysis, threat hunting, detection rule tuning, and incident response, including containment, remediation, recovery, and root cause analysis. I have worked with security platforms and tools such as FortiSIEM, ArcSight, Splunk, Elastic, Elastic Defend, SentinelOne, Cortex XSOAR, Wireshark, Zeek, and Tenable Nessus. I also have experience in phishing and malware investigations, network traffic analysis, and digital forensics using tools such as Autopsy, KAPE, Volatility, and Velociraptor.
+
+Alongside my professional experience, I have built and maintained a **hands-on cybersecurity home lab**, where I have deployed and configured **Elastic SIEM and Elastic Defend** for security monitoring and threat detection. I have completed **20+ hands-on cybersecurity projects** covering Linux and Windows threat hunting, phishing investigations, and Splunk-based threat detection. These projects have strengthened my practical skills in security log analysis, investigating suspicious activity, and identifying indicators of compromise.
+
+I have also earned **50+ cybersecurity credentials**, completed **512+ TryHackMe rooms**, achieved a position in the **top 1% of the TryHackMe leaderboard**, and published **30+ technical security write-ups**. Through continued hands-on practice and research, I keep developing my investigation skills and stay engaged with practical security challenges.
+
+I am looking for an opportunity to contribute my SOC experience, analytical skills, and hands-on knowledge to a security team. I would welcome the opportunity to discuss how my experience in threat detection, incident investigation, and defensive security operations could support your organisation.
+
+Thank you for considering my application. I look forward to hearing from you.
+
+**Kind regards,**  
+Kiran Dikshit Menon A
